@@ -1,0 +1,1 @@
+/usr/bin/c++    -fPIC -std=c++0x -Wall -Wconversion   CMakeFiles/sampleExportPLY.dir/sampleExportPLY.cpp.o  -o sampleExportPLY  -L/home/fan/royale/libroyale-3.20.0.62-LINUX-x86-64Bit/bin -rdynamic -lroyale -Wl,-rpath,/home/fan/royale/libroyale-3.20.0.62-LINUX-x86-64Bit/bin 
